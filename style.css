@@ -37,7 +37,7 @@ input{
 }
 
 input::placeholder{
-    color: #fb7c14;
+    color: whitesmoke;
 }
 
 button{
